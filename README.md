@@ -2,7 +2,7 @@
 Here I will upload a few suggested recommendations to solve class imbalance problem for machine learning.
 
 <h2>Dataset<h2>
-The dataset used for the experiments is taken from ![Link](https://github.com/defcom17/NSL_KDD)
+The dataset used for the experiments is taken from https://github.com/defcom17/NSL_KDD
 
 <h2>Dataset Distribution<h2>
 
